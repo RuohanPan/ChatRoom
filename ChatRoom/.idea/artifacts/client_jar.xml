@@ -1,0 +1,22 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="client:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/</output-path>
+    <root id="archive" name="client.jar">
+      <element id="module-output" name="client" />
+      <element id="module-output" name="core" />
+      <element id="extracted-dir" path="D:/slf4j-log4j12-1.5.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/slf4j-api-1.5.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/apache-mina-2.0.16-bin/apache-mina-2.0.16/dist/mina-core-2.0.16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/json-lib-2.4-jdk15.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/lib/ezmorph-1.0.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/lib/commons-lang-2.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/lib/commons-logging-1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/lib/json-lib-2.2.3-jdk13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/lib/commons-beanutils-1.7.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/lib/commons-collections-3.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/commons-lang-2.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/mysql-connector-java-5.1.40/mysql-connector-java-5.1.40/mysql-connector-java-5.1.40-bin.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/log4j-1.2.14.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

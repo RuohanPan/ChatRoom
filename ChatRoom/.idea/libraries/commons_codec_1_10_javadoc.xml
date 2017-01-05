@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="commons-codec-1.10-javadoc">
+    <CLASSES>
+      <root url="jar://D:/lib/commons-codec-1.10-bin/commons-codec-1.10/commons-codec-1.10-tests.jar!/" />
+      <root url="jar://D:/lib/commons-codec-1.10-bin/commons-codec-1.10/commons-codec-1.10.jar!/" />
+      <root url="jar://D:/apache-mina-2.0.16-bin/apache-mina-2.0.16/dist/mina-filter-compression-2.0.16.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/lib/commons-codec-1.10-bin/commons-codec-1.10/commons-codec-1.10-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/lib/commons-codec-1.10-bin/commons-codec-1.10/commons-codec-1.10-sources.jar!/" />
+      <root url="jar://D:/lib/commons-codec-1.10-bin/commons-codec-1.10/commons-codec-1.10-test-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

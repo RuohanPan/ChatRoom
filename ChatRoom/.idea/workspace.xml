@@ -1,0 +1,1310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="client:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/server/src/serverHandler/ChatServerHandler.java" line="86" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2e8d17c5-1484-4d2c-9cee-a01f9f48d096" name="Default" comment="" />
+    <ignored path="hello.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/hello$ChatClient2.coverage" NAME="ChatClient2 Coverage Results" MODIFIED="1482720448639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>main.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/hello$ChatServer.coverage" NAME="ChatServer Coverage Results" MODIFIED="1482745080259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>main.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint url="file://$PROJECT_DIR$/core/src/protocol/MsgDecoder.java" line="28" class="protocol.MsgDecoder" package="protocol">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/client/src/main/ThreadPoolTest.java" line="45" class="main.ThreadPoolTest.ClientTest" package="main">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </line_breakpoints>
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="hello" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="ChatServer.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/src/main/ChatServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="27" column="4" selection-start="913" selection-end="913" vertical-scroll-proportion="0.0" vertical-offset="55" max-vertical-offset="945">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ThreadPoolTest.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/client/src/main/ThreadPoolTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="99" column="36" selection-start="3158" selection-end="3158" vertical-scroll-proportion="1.3165829" vertical-offset="1219" max-vertical-offset="2289">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Login.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/src/model/Login.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="37" column="16" selection-start="533" selection-end="533" vertical-scroll-proportion="0.0" vertical-offset="311" max-vertical-offset="1197">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ChatServerDecode.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/src/protocol/ChatServerDecode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="57" column="22" selection-start="1570" selection-end="1571" vertical-scroll-proportion="18.72" vertical-offset="1476" max-vertical-offset="2289">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/client/src/Test.java" />
+        <option value="$PROJECT_DIR$/core/src/model/FriendsEx.java" />
+        <option value="$PROJECT_DIR$/core/src/model/Friends.java" />
+        <option value="$PROJECT_DIR$/core/src/model/Search.java" />
+        <option value="$PROJECT_DIR$/core/src/model/User.java" />
+        <option value="$PROJECT_DIR$/server/src/main/test.java" />
+        <option value="$PROJECT_DIR$/server/src/main/SoftRE.java" />
+        <option value="$PROJECT_DIR$/server/src/main/WeakReferenceTest.java" />
+        <option value="$PROJECT_DIR$/server/src/main/Referent.java" />
+        <option value="$PROJECT_DIR$/server/src/main/SoftReferenceTest.java" />
+        <option value="$PROJECT_DIR$/client/src/main/ChatClient2.java" />
+        <option value="$PROJECT_DIR$/test/src/myDigest.java" />
+        <option value="$PROJECT_DIR$/core/src/Utils/DESUtils.java" />
+        <option value="$PROJECT_DIR$/core/src/Utils/DESUtil.java" />
+        <option value="$PROJECT_DIR$/core/src/Utils/Base64Utils.java" />
+        <option value="$PROJECT_DIR$/core/src/model/PackageHead.java" />
+        <option value="$PROJECT_DIR$/core/src/Utils/MsgSendUtils.java" />
+        <option value="$PROJECT_DIR$/client/src/main/ChatClient4.java" />
+        <option value="$PROJECT_DIR$/client/src/main/ChatClient.java" />
+        <option value="$PROJECT_DIR$/core/src/model/Login.java" />
+        <option value="$PROJECT_DIR$/client/src/main/ClientTest.java" />
+        <option value="$PROJECT_DIR$/test/src/ThreadDeadLockTest.java" />
+        <option value="$PROJECT_DIR$/core/src/model/MessageType.java" />
+        <option value="$PROJECT_DIR$/client/src/main/ChatClient3.java" />
+        <option value="$PROJECT_DIR$/core/src/jdbc/DBUtils.java" />
+        <option value="$PROJECT_DIR$/client/src/main/ChatClient3Test.java" />
+        <option value="$PROJECT_DIR$/client/src/main/KeepSendingMsgTest.java" />
+        <option value="$PROJECT_DIR$/client/src/main/AdminTest.java" />
+        <option value="$PROJECT_DIR$/client/src/main/ClientMultiThreadTest.java" />
+        <option value="$PROJECT_DIR$/client/src/main/BlackListTest.java" />
+        <option value="$PROJECT_DIR$/client/src/main/KeepSendingMsgTest1.java" />
+        <option value="$PROJECT_DIR$/client/src/main/KeepSendingMsgTest2.java" />
+        <option value="$PROJECT_DIR$/client/src/main/ClientFriendsFuncTest.java" />
+        <option value="$PROJECT_DIR$/core/src/protocol/DecoderTest.java" />
+        <option value="$PROJECT_DIR$/core/src/protocol/EncoderTest.java" />
+        <option value="$PROJECT_DIR$/client/src/main/ClientPoolTest.java" />
+        <option value="$PROJECT_DIR$/server/src/main/ChatServer.java" />
+        <option value="$PROJECT_DIR$/core/src/protocol/MsgEncoder.java" />
+        <option value="$PROJECT_DIR$/core/src/protocol/ChatServerEncode.java" />
+        <option value="$PROJECT_DIR$/core/src/protocol/MessageProtocolCodecFactory.java" />
+        <option value="$PROJECT_DIR$/client/src/main/ThreadPoolOrigin.java" />
+        <option value="$PROJECT_DIR$/core/src/protocol/DecoderTest1.java" />
+        <option value="$PROJECT_DIR$/core/src/protocol/ChatServerDecode1.java" />
+        <option value="$PROJECT_DIR$/client/src/clientHandler/ChatClientHandler.java" />
+        <option value="$PROJECT_DIR$/core/src/protocol/MsgDecoder.java" />
+        <option value="$PROJECT_DIR$/core/src/protocol/ChatContext.java" />
+        <option value="$PROJECT_DIR$/core/src/protocol/LeftBuffer.java" />
+        <option value="$PROJECT_DIR$/server/src/serverHandler/ChatServerHandler.java" />
+        <option value="$PROJECT_DIR$/core/src/protocol/ChatServerDecode.java" />
+        <option value="$PROJECT_DIR$/client/src/main/ThreadPoolTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="73" />
+    <option name="y" value="6" />
+    <option name="width" value="1920" />
+    <option name="height" value="1091" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ChatRoom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ChatRoom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ChatRoom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ChatRoom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="serverHandler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ChatRoom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ChatRoom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ChatRoom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ChatRoom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protocol" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ChatRoom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ChatRoom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ChatRoom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ChatRoom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="clientHandler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="OverrideImplement.overriding.sorted" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="protocol" />
+      <recent name="main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ThreadPoolTest">
+    <configuration default="false" name="ChatServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="main.ChatServer" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="server" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="KeepSendingMsgTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="main.KeepSendingMsgTest2" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="client" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ThreadPoolTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="main.ThreadPoolTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="client" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ClientMultiThreadTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="main.ClientMultiThreadTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="client" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="AdminTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="main.AdminTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="client" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin" singleton="true">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails" singleton="true">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browserFamily" value="FIREFOX" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" output_log_level="null" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browserFamily" value="FIREFOX" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="com.intellij.persistence.run.ConsoleRunConfigurationType" factoryName="Query Language Console">
+      <option name="VM_PARAMETERS" value="" />
+      <option name="USER_CFG_CLASS" />
+      <option name="CONTEXT_PROVIDER" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Application.ChatServer" />
+      <item index="1" class="java.lang.String" itemvalue="Application.KeepSendingMsgTest2" />
+      <item index="2" class="java.lang.String" itemvalue="Application.ThreadPoolTest" />
+      <item index="3" class="java.lang.String" itemvalue="Application.ClientMultiThreadTest" />
+      <item index="4" class="java.lang.String" itemvalue="Application.AdminTest" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.ThreadPoolTest" />
+        <item index="1" class="java.lang.String" itemvalue="Application.ChatServer" />
+        <item index="2" class="java.lang.String" itemvalue="Application.AdminTest" />
+        <item index="3" class="java.lang.String" itemvalue="Application.ClientMultiThreadTest" />
+        <item index="4" class="java.lang.String" itemvalue="Application.KeepSendingMsgTest2" />
+      </list>
+    </recent_temporary>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e8d17c5-1484-4d2c-9cee-a01f9f48d096" name="Default" comment="" />
+      <created>1482405567311</created>
+      <updated>1482405567311</updated>
+      <workItem from="1482405571891" duration="561000" />
+      <workItem from="1482406491384" duration="562000" />
+      <workItem from="1482458886351" duration="5000" />
+      <workItem from="1482458962404" duration="8000" />
+      <workItem from="1482458994234" duration="10000" />
+      <workItem from="1482459011236" duration="9715000" />
+      <workItem from="1482474658411" duration="2691000" />
+      <workItem from="1482477363374" duration="914000" />
+      <workItem from="1482478289736" duration="15014000" />
+      <workItem from="1482494357159" duration="207000" />
+      <workItem from="1482717429904" duration="2374000" />
+      <workItem from="1482720131826" duration="233000" />
+      <workItem from="1482720377945" duration="2499000" />
+      <workItem from="1482722890828" duration="35000" />
+      <workItem from="1482722943317" duration="294000" />
+      <workItem from="1482723249513" duration="24000" />
+      <workItem from="1482723300541" duration="105000" />
+      <workItem from="1482724155668" duration="10948000" />
+      <workItem from="1482740208071" duration="1113000" />
+      <workItem from="1482741335896" duration="4515000" />
+      <workItem from="1482746118507" duration="300000" />
+      <workItem from="1482746432179" duration="1089000" />
+      <workItem from="1482754567431" duration="31277000" />
+      <workItem from="1482916385439" duration="19080000" />
+      <workItem from="1482991386922" duration="2225000" />
+      <workItem from="1482993646475" duration="650000" />
+      <workItem from="1482994313179" duration="1963000" />
+      <workItem from="1482996319110" duration="6245000" />
+      <workItem from="1483002614191" duration="274000" />
+      <workItem from="1483002900732" duration="9453000" />
+      <workItem from="1483013593192" duration="2905000" />
+      <workItem from="1483063260462" duration="29912000" />
+      <workItem from="1483098889883" duration="182000" />
+      <workItem from="1483408465633" duration="18000" />
+      <workItem from="1483408500803" duration="11758000" />
+      <workItem from="1483425062778" duration="11797000" />
+      <workItem from="1483520797228" duration="97000" />
+      <workItem from="1483520919807" duration="69000" />
+      <workItem from="1483521011473" duration="160000" />
+      <workItem from="1483521183288" duration="19760000" />
+      <workItem from="1483588026905" duration="1346000" />
+      <workItem from="1483592137450" duration="6481000" />
+      <workItem from="1483598830241" duration="7816000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="216684000" />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="73" y="6" width="1920" height="1091" extended-state="1" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.07411385" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.15614237" sideWeight="0.8748657" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.43513203" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295063" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14607948" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.55821204" sideWeight="0.12459721" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14696486" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34735706" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_11/jre/lib/rt.jar!/sun/nio/ch/SocketDispatcher.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="0" selection-start="1594" selection-end="1594" vertical-scroll-proportion="0.61230767" vertical-offset="452" max-vertical-offset="777" />
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_11/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2087" column="26" selection-start="89218" selection-end="89218" vertical-scroll-proportion="0.46321526" vertical-offset="42229" max-vertical-offset="131250" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/Utils/MsgSendUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="66" column="38" selection-start="1598" selection-end="1598" vertical-scroll-proportion="0.34186748" vertical-offset="865" max-vertical-offset="2415" />
+      </provider>
+    </entry>
+    <entry file="jar://D:/apache-mina-2.0.16-bin/apache-mina-2.0.16/dist/mina-core-2.0.16.jar!/org/apache/mina/core/session/IoSession.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="17" selection-start="175" selection-end="175" vertical-scroll-proportion="0.13981359" vertical-offset="0" max-vertical-offset="3528" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/main/ChatClient4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="96" column="0" selection-start="3199" selection-end="3199" vertical-scroll-proportion="3.522976" vertical-offset="175" max-vertical-offset="2142" />
+      </provider>
+    </entry>
+    <entry file="jar://D:/apache-mina-2.0.16-bin/apache-mina-2.0.16/dist/mina-core-2.0.16.jar!/org/apache/mina/filter/logging/LoggingFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="16" selection-start="1763" selection-end="1763" vertical-scroll-proportion="-6.24" vertical-offset="516" max-vertical-offset="1617" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/src/ThreadDeadLockTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="13" selection-start="658" selection-end="658" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="1092" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/main/KeepSendingMsgTest2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="92" column="13" selection-start="3085" selection-end="3085" vertical-scroll-proportion="-15.32" vertical-offset="1234" max-vertical-offset="2058">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/main/BlackListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="98" column="67" selection-start="3139" selection-end="3139" vertical-scroll-proportion="0.0" vertical-offset="252" max-vertical-offset="2352" />
+      </provider>
+    </entry>
+    <entry file="jar://D:/apache-mina-2.0.16-bin/apache-mina-2.0.16/dist/mina-core-2.0.16.jar!/org/apache/mina/filter/codec/CumulativeProtocolDecoder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="55" selection-start="213" selection-end="213" vertical-scroll-proportion="-4.2" vertical-offset="0" max-vertical-offset="588" />
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_11/jre/lib/rt.jar!/sun/net/httpserver/ServerConfig.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="26" selection-start="822" selection-end="825" vertical-scroll-proportion="0.33333334" vertical-offset="179" max-vertical-offset="1134" />
+      </provider>
+    </entry>
+    <entry file="jar://D:/apache-mina-2.0.16-bin/apache-mina-2.0.16/dist/mina-core-2.0.16.jar!/org/apache/mina/core/filterchain/IoFilterAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="16" selection-start="2408" selection-end="2408" vertical-scroll-proportion="0.0" vertical-offset="651" max-vertical-offset="1008" />
+      </provider>
+    </entry>
+    <entry file="jar://D:/apache-mina-2.0.16-bin/apache-mina-2.0.16/dist/mina-core-2.0.16.jar!/org/apache/mina/core/polling/AbstractPollingIoProcessor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="127" column="20" selection-start="5395" selection-end="5395" vertical-scroll-proportion="0.6666667" vertical-offset="2331" max-vertical-offset="2835" />
+      </provider>
+    </entry>
+    <entry file="jar://D:/apache-mina-2.0.16-bin/apache-mina-2.0.16/dist/mina-core-2.0.16.jar!/org/apache/mina/core/filterchain/DefaultIoFilterChain.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="161" column="20" selection-start="10887" selection-end="10887" vertical-scroll-proportion="-5.24" vertical-offset="3229" max-vertical-offset="3822" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/main/ChatClient3Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="78" column="0" selection-start="2619" selection-end="2619" vertical-scroll-proportion="0.0" vertical-offset="1271" max-vertical-offset="2541" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/protocol/EncoderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="13" selection-start="737" selection-end="737" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="756" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/main/KeepSendingMsgTest1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="59" column="21" selection-start="1955" selection-end="1955" vertical-scroll-proportion="-1.5652174" vertical-offset="1464" max-vertical-offset="2016">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_11/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="109" column="45" selection-start="3980" selection-end="3987" vertical-scroll-proportion="0.33333334" vertical-offset="1314" max-vertical-offset="43197" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/main/ClientPoolTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="57" column="23" selection-start="1881" selection-end="3168" vertical-scroll-proportion="0.21766561" vertical-offset="1059" max-vertical-offset="2436" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/main/ChatClient2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="132" column="76" selection-start="4284" selection-end="4355" vertical-scroll-proportion="2.9735682" vertical-offset="453" max-vertical-offset="2751" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/main/ClientMultiThreadTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="84" column="5" selection-start="2569" selection-end="2569" vertical-scroll-proportion="0.41409692" vertical-offset="1167" max-vertical-offset="1848" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/main/ClientFriendsFuncTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="127" column="13" selection-start="3711" selection-end="3711" vertical-scroll-proportion="0.5624082" vertical-offset="1969" max-vertical-offset="3276">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/apache-mina-2.0.16-bin/apache-mina-2.0.16/dist/mina-core-2.0.16.jar!/org/apache/mina/core/service/IoProcessor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="17" selection-start="175" selection-end="175" vertical-scroll-proportion="0.16006097" vertical-offset="0" max-vertical-offset="656" />
+      </provider>
+    </entry>
+    <entry file="jar://D:/apache-mina-2.0.16-bin/apache-mina-2.0.16/dist/mina-core-2.0.16.jar!/org/apache/mina/transport/socket/nio/NioSocketAcceptor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="109" selection-start="1932" selection-end="1943" vertical-scroll-proportion="0.33333334" vertical-offset="487" max-vertical-offset="1344" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/main/ChatClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="80" column="18" selection-start="2859" selection-end="2974" vertical-scroll-proportion="0.0" vertical-offset="1260" max-vertical-offset="2373" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/jdbc/DBUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="112" column="0" selection-start="2693" selection-end="2693" vertical-scroll-proportion="0.0" vertical-offset="2063" max-vertical-offset="6216" />
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_11/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="258" column="0" selection-start="8837" selection-end="8837" vertical-scroll-proportion="0.17558299" vertical-offset="3883" max-vertical-offset="72492" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/model/MessageType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="88" column="28" selection-start="2608" selection-end="2608" vertical-scroll-proportion="0.80898875" vertical-offset="1488" max-vertical-offset="1995">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/protocol/MsgEncoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="4" selection-start="856" selection-end="856" vertical-scroll-proportion="0.54044116" vertical-offset="0" max-vertical-offset="816">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/Utils/Base64Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="186" selection-end="186" vertical-scroll-proportion="0.18712574" vertical-offset="106" max-vertical-offset="819" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/main/AdminTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="4" selection-start="1456" selection-end="1456" vertical-scroll-proportion="1.0333333" vertical-offset="42" max-vertical-offset="1428">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/apache-mina-2.0.16-bin/apache-mina-2.0.16/dist/mina-core-2.0.16.jar!/org/apache/mina/filter/codec/ProtocolCodecFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="16" selection-start="1933" selection-end="1933" vertical-scroll-proportion="0.32026145" vertical-offset="420" max-vertical-offset="1722" />
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_11/src.zip!/java/lang/Throwable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="632" column="16" selection-start="26204" selection-end="26204" vertical-scroll-proportion="0.3321918" vertical-offset="12532" max-vertical-offset="22281" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/main/ThreadPoolOrigin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="13" selection-start="732" selection-end="732" vertical-scroll-proportion="0.22919509" vertical-offset="0" max-vertical-offset="2310">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/apache-mina-2.0.16-bin/apache-mina-2.0.16/dist/mina-core-2.0.16.jar!/org/apache/mina/core/service/IoHandlerAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="16" selection-start="1246" selection-end="1246" vertical-scroll-proportion="0.7321712" vertical-offset="0" max-vertical-offset="651" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/clientHandler/ChatClientHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="41" selection-start="764" selection-end="764" vertical-scroll-proportion="0.77884614" vertical-offset="0" max-vertical-offset="1155" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/model/PackageHead.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="81" column="0" selection-start="1340" selection-end="1340" vertical-scroll-proportion="0.5743243" vertical-offset="794" max-vertical-offset="1386">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/protocol/MsgDecoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="66" selection-start="736" selection-end="797" vertical-scroll-proportion="0.5675676" vertical-offset="0" max-vertical-offset="777">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/apache-mina-2.0.16-bin/apache-mina-2.0.16/dist/mina-core-2.0.16.jar!/org/apache/mina/core/buffer/IoBuffer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="276" column="37" selection-start="9577" selection-end="9577" vertical-scroll-proportion="-8.4" vertical-offset="5565" max-vertical-offset="7896" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/protocol/MessageProtocolCodecFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="40" selection-start="475" selection-end="482" vertical-scroll-proportion="0.4637224" vertical-offset="0" max-vertical-offset="924">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/protocol/ChatServerEncode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="43" selection-start="490" selection-end="497" vertical-scroll-proportion="0.22867298" vertical-offset="59" max-vertical-offset="903">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/serverHandler/ChatServerHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="397" column="16" selection-start="17135" selection-end="17407" vertical-scroll-proportion="0.05465288" vertical-offset="8006" max-vertical-offset="9639">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/protocol/DecoderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="70" selection-start="664" selection-end="729" vertical-scroll-proportion="0.42368045" vertical-offset="60" max-vertical-offset="1113">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/ChatServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="4" selection-start="913" selection-end="913" vertical-scroll-proportion="0.0" vertical-offset="244" max-vertical-offset="945">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/protocol/ChatServerDecode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="57" column="22" selection-start="1570" selection-end="1571" vertical-scroll-proportion="18.72" vertical-offset="1476" max-vertical-offset="2289">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/model/Login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="16" selection-start="533" selection-end="533" vertical-scroll-proportion="0.0" vertical-offset="311" max-vertical-offset="1197">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/main/ThreadPoolTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="99" column="36" selection-start="3158" selection-end="3158" vertical-scroll-proportion="1.3165829" vertical-offset="1219" max-vertical-offset="2289">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>client:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>core</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2550505" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>commons-codec-1.10-javadoc</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+
